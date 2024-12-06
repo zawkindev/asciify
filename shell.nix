@@ -1,8 +1,9 @@
 { pkgs ? import <nixpkgs> {} }:
 pkgs.mkShell {
-  buildInputs = [
-    pkgs.openjdk17        # Java JDK
-    pkgs.jetbrains.idea-community # IntelliJ IDEA (or use 'idea-ultimate' for Ultimate edition)
+  buildInputs = with pkgs; [
+    openjdk17        # Java JDK
+    jetbrains.idea-community # IntelliJ IDEA (or use 'idea-ultimate' for Ultimate edition)
+    maven
   ];
 
   # Optional: Set environment variables for IntelliJ
