@@ -1,4 +1,8 @@
-# **Asciify - Image to ASCII Art Converter**
+# **Asciify - Image to ASCII Art Converter 🎨**
+
+[![Version](https://img.shields.io/badge/version-1.0-brightgreen)](#)
+[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![Java](https://img.shields.io/badge/built%20with-Java-orange)](#)
 
 Asciify is a command-line tool to convert images into stunning ASCII art. You can adjust the width of the rendered output and optionally save it as an HTML file.
 
