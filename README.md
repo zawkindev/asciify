@@ -1,6 +1,6 @@
 # **Asciify - Image to ASCII Art Converter 🎨**
 
-![Alt Text](ascii-150.png)
+![Alt Text](images/ascii-150.png)
 
 
 [![Version](https://img.shields.io/badge/version-1.0-brightgreen)](#)
