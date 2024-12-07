@@ -1,5 +1,8 @@
 # **Asciify - Image to ASCII Art Converter 🎨**
 
+![Alt Text](ascii-150.png)
+
+
 [![Version](https://img.shields.io/badge/version-1.0-brightgreen)](#)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![Java](https://img.shields.io/badge/built%20with-Java-orange)](#)
