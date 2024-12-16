@@ -2,7 +2,6 @@
 pkgs.mkShell {
   buildInputs = with pkgs; [
     openjdk17        # Java JDK
-    jetbrains.idea-community # IntelliJ IDEA (or use 'idea-ultimate' for Ultimate edition)
     maven
   ];
 
